@@ -1,8 +1,10 @@
-<h1 style="font-size: 2.5em; padding-bottom: .3em; border-bottom: 2px solid #eaecef;">Introducció a les bases de dades</h1>
+<h1 style="font-size: 2.5em; padding-bottom: .3em; border-bottom: 2px solid #eaecef;">UF01: Introducció a les bases de dades</h1>
 
-Actualment estem absolutament envoltats de informació la qual, en el **99%** de les vegades esta emmagatzemada en una base de dades.
+Les dades que s'utilitzen en els sistemes d'informació (SI) s'acostumen a emmagatzemar en bases de dades (BD). Per a poder parlar i raonar amb certa propietat sobre les BD, ens convindrà tenir clar què són les **dades**, que és la **informació**, i quines són les **abstraccions** que els informàtics representem físicament sobre discs magnètics, CD-ROM, cartutxos de cinta, etc. Amb aquest objectiu, haurem d'adquirir algunes nocions teòriques fonamentals i disposar d'eines formals en què basar-nos.
 
-Exemples diaris en que creieu que hi ha informació emmagatzemada en una base de dades.
+Actualment estem absolutament envoltats d'**informació** la qual, en el **99%** de les vegades esta emmagatzemada en una **base de dades**.
+
+Expreseu exemples diaris en que creieu que hi ha informació emmagatzemada en una base de dades.
 1. Treure calers d'un caixer automàtic.
 1. ...
 
@@ -17,16 +19,16 @@ Així doncs, mitjançant l'observació de la realitat, s'obté un conjunt d'abst
 
 ## 1.1 Les dades i les bases de dades
 
-Tot informàtic que hagi de treballar amb bases de dades (BD), és imprescindible que sàpiga distingir tres àmbits ben diferenciats, però que al mateix temps estan fortament interrelacionats, els quals fan referència, respectivament, a **la realitat**, a la seva **conceptualització**, i a la seva **representació informàtica**.
+Tot informàtic que hagi de treballar amb **bases de dades** (```BD```), és imprescindible que sàpiga distingir tres àmbits ben diferenciats, però que al mateix temps estan fortament interrelacionats, els quals fan referència, respectivament, a **la realitat**, a la seva **conceptualització**, i a la seva **representació informàtica**.
 
 1. El <span style="font-size:1.25em; text-decoration:underline;">**Món real**</span>. Està constituït pels **objectes (materials o immaterials) de la realitat que ens interessen** i amb els quals haurem de **treballar**.
 1. El <span style="font-size:1.25em; text-decoration:underline;">**Món conceptual**</span>. És el conjunt de **coneixements, informacions, conceptes, ...** obtinguts gràcies a l'observació de la part del ***món real*** que ens interessa. Un mateix ***món real pot donar lloc a diferents mons conceptuals, en funció de la manera de percebre la realitat, o els interessos de l'observador d'aquesta*** .
 1. El <span style="font-size:1.25em; text-decoration:underline;">**Món de les representacions**</span>. Està format per les **representacions informàtiques, o dades, del món conceptual, necessàries per poder treballar**.
 
 
-![Figura 1. 1. **Els tres móns**](images/ic10m2u1_01.png "Figura 1.1. Els tres móns")
+![Figura 1. 1. **Els tres móns**](../images/ic10m2u1_01.png "Figura 1.1. Els tres móns")
 
-[Figura 1. 1. **Els tres móns**](images/ic10m2u1_01.png "Figura 1.1. Els tres móns.")
+[Figura 1. 1. **Els tres móns**](../images/ic10m2u1_01.png "Figura 1.1. Els tres móns.")
 
 
 ## 1.1.1 Les dades i la seva representació
