@@ -25,9 +25,12 @@ Tot informàtic que hagi de treballar amb bases de dades (BD), és imprescindibl
 
 
 [Figura 1.1: **Els tres móns** *Versió A*](images/10000000000001790000014FB39443DC.png "Figura 1.1. Els tres móns **Ver. A**")
+
 ![Figura 1.1: **Els tres móns** *Versió A*](images/10000000000001790000014FB39443DC.png "Figura 1.1. Els tres móns **Ver. A**")
 
+
 [Figura 1. 1. **Els tres móns** *Versió B*](images/ic10m2u1_01.png "Figura 1.1. Els tres móns **Ver. B**")
+
 ![Figura 1. 1. **Els tres móns** *Versió B*](images/ic10m2u1_01.png "Figura 1.1. Els tres móns **Ver. B**")
 
 
