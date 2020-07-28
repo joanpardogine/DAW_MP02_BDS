@@ -13,9 +13,9 @@ Per començar cal entendre que hi ha tres àmbits que hem de ser capaços de dif
 Per **món real**, s'entén la part de la realitat (ja sigui tangible o intangible) que en un moment determinat ens interessa informatitzar perquè hem rebut un encàrrec en aquest sentit. 
 Així doncs, mitjançant l'observació de la realitat, s'obté un conjunt d'abstraccions de les informacions considerades rellevants, es construeix un **model que conceptualitza** els aspectes de la realitat amb els quals volem treballar. Finalment, cal implementar alguna **representació informàtica** concreta dels conceptes abstrets durant la fase anterior, per tal de poder-hi treballar fent servir les tecnologies que ens ofereixen les bases de dades i, també, els seus sistemes gestors.
 
-#Introducció a les bases de dades i als sistemes gestors de bases de dades
+## Introducció a les bases de dades i als sistemes gestors de bases de dades
 
-##1.1 Les dades i les bases de dades
+### 1.1 Les dades i les bases de dades
 
 Tot informàtic que hagi de treballar amb bases de dades (BD), és imprescindible que sàpiga distingir tres àmbits ben diferenciats, però que al mateix temps estan fortament interrelacionats, els quals fan referència, respectivament, a **la realitat**, a la seva **conceptualització**, i a la seva **representació informàtica**.
 
