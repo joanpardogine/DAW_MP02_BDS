@@ -24,6 +24,7 @@ Tot informàtic que hagi de treballar amb bases de dades (BD), és imprescindibl
 1. El **món de les representacions**. Està format per les **representacions informàtiques, o dades, del món conceptual, necessàries per poder treballar**.
 
 [Figura 1. 1. Els tres móns](imatges/ic10m2u1_01.png "Figura 1. 1. Els tres móns")
+![Figura 1. 1. Els tres móns](imatges/ic10m2u1_01.png "Figura 1. 1. Els tres móns")
 
 ### 1.1.1 Les dades i la seva representació
 Un cop estructurats, els conceptes entorn de la realitat passen a ser veritables informacions, amb les quals els humans ens podem comunicar i començar a treballar.
