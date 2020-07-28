@@ -33,15 +33,15 @@ Com a informàtics que hem d'analitzar o construir un **sistema d'informació** 
 
 El **món real**, la part de la realitat que ens interessa, és el que percebem amb els nostres sentits i és compost per objectes concrets, físics o no.
 
-* El <span style="color:blue;">**malalt**</span> que es diu <span style="color: navy;">**Joan Garcia**</span>,
-* El <span style="color:blue;">**llit**</span> número <span style="color: navy;">**34**</span> de la <span style="color: navy;">**segona**</span> <span style="color:blue;">**planta**</span>,
-* El <span style="color:blue;">**magatzem**</span> ubicat a <span style="color: navy;">**Sòria**</span>,
-* El <span style="color:blue;">**camió**</span> amb matrícula <span style="color: navy;">**3452-BFG**</span>,
-* L'<span style="color:blue;">**alumna**</span> que es diu <span style="color: navy;">**Judith Pi**</span>,
-* L'<span style="color:blue;">**assignatura**</span> de <span style="color: navy;">**Química I**</span>,
-* La <span style="color:blue;">**malaltia**</span> anomenada <span style="color: navy;">**meningitis**</span>,
-* La <span style="color:blue;">**devolució**</span> d'una <span style="color: navy;">**comanda**</span> concreta,
-* L'<span style="color:blue;">**accident de trànsit**</span> de <span style="color: navy;">**15 de gener**</span> ocorregut a l'<span style="color:blue;">**autopista**</span> anomenada <span style="color: navy;">**AP-7**</span>,
+* El ***```malalt```*** que es diu **```Joan Garcia```**,
+* El ***```llit```*** número **```34```** de la **```segona```** ***```planta```***,
+* El ***```magatzem```*** ubicat a **```Sòria```**,
+* El ***```camió```*** amb matrícula **```3452-BFG```**,
+* L'***```alumna```*** que es diu **```Judith Pi```**,
+* L'***```assignatura```*** de **```Química I```**,
+* La ***```malaltia```*** anomenada **```meningitis```**,
+* La devolució de la ***```comanda```*** amb número **```BN-1234```**,
+* L'***```accident de trànsit```*** ocorregut el **```15 de gener```** a l'***```autopista```*** **```AP-7```**,
 
 són alguns exemples d'objectes que pertanyen al **món real**.
 
