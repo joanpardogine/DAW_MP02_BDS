@@ -12,7 +12,7 @@ Anomeneu exemples diaris en què creieu que hi ha informació emmagatzemada en u
 
 Per tant, com a tècnics superiors en informàtica, cal que tingueu molt clars tot un seguit de conceptes relacionats amb les **dades** i de la seva **representació informàtica**.
 
-Per començar cal entendre que hi ha tres àmbits que hem de ser capaços de diferenciar per tal de treballar correctament amb les dades: <span style="font-size:1.25em; text-decoration:underline;">el **món real**</span> amb els objectes del nostre interès, <span style="font-size:1.25em; text-decoration:underline;">el **món conceptual**</span> que conté el conjunt dels coneixements obtinguts observant el **món real** i <span style="font-size:1.25em; text-decoration:underline;">el **món de les representacions**</span> que no deixen de ser representacions físiques dels coneixements que tenim dels objectes del **món real**.
+Per començar cal entendre que hi ha tres àmbits que hem de ser capaços de diferenciar per tal de treballar correctament amb les dades: <span style="font-size:1.25em; text-decoration:underline;">el **món real**</span> amb els **objectes** del nostre interès, <span style="font-size:1.25em; text-decoration:underline;">el **món conceptual**</span> que conté el conjunt dels coneixements obtinguts observant el **món real** i <span style="font-size:1.25em; text-decoration:underline;">el **món de les representacions**</span> que no deixen de ser representacions físiques dels coneixements que tenim dels **objectes** del **món real**.
 
 ## 1. Els tres mons: el **real**, el **conceptual** i el de les **representacions**.
 
@@ -31,7 +31,7 @@ Així doncs, mitjançant l'observació de la realitat, s'obté un conjunt d'abst
 
 Com a informàtics que hem d'analitzar o construir un **sistema d'informació** <span style="font-size:1.25em; text-decoration:none;">**(SI)**</span> determinat, ens cal conèixer el **món real** al qual aquest <span style="font-size:1.25em;">**SI**</span> ha de fer referència o modelitzar; així, el nostre **món real** podrà ser un *hospital*, una *empresa distribuïdora de productes alimentaris*, la *matriculació dels alumnes d'una universitat*, etc.
 
-El **món real**, la part de la realitat que ens interessa, és el que percebem amb els nostres sentits i és compost per objectes concrets, físics o no.
+El **món real**, la part de la realitat que ens interessa, és el que percebem amb els nostres sentits i és compost per **objectes** concrets.
 
 * El ***```malalt```*** que es diu **```Joan Garcia```**,
 * El ***```llit```*** número **```34```** de la **```segona```** ***```planta```***,
@@ -43,15 +43,21 @@ El **món real**, la part de la realitat que ens interessa, és el que percebem 
 * La devolució de la ***```comanda```*** amb número **```BN-1234```**,
 * L'***```accident de trànsit```*** ocorregut el **```15 de gener```** a l'***```autopista```*** **```AP-7```**,
 
-són alguns exemples d'objectes que pertanyen al **món real**.
+són alguns exemples d'**objectes** que pertanyen al **món real**.
+
+Aquests **objectes** concrets, poden ser físics o no, és a dir, que poden ser **objectes** ***materials*** (*tangibles*, que podem tocar) o poden ser **objectes** ***immaterials*** (*intangibles*, que **NO** podem tocar).
+
+#### Per exemple
+1. quan parlem d'un **camió**, aquest *objecte **camió*** és **tangible**, *el podem tocar*. Però
+1. quan parlem d'una **assignatura** aquest *objecte **assignatura*** és **intangible**, **NO** *el podem tocar*.
 
 Com que treballem en el camp dels **SI**, els **mons reals** que ens interessen són les **organitzacions**: *empreses*, *institucions*, etc.
 
 ### 1.2. Les *<span style="text-decoration:underline;">concepcions</span>*: la **informació**.
 
-Observant el **món real**, els humans som capaços de deduir-ne **coneixements**, **informació**. L'observació dels objectes del **món real** ens porta a fer-ne l'*anàlisi* i la *síntesi*; després, n'obtenim **abstraccions**, en fem *classificacions* (podem saber que dos objectes són de la mateixa classe malgrat que siguin diferents), en deduïm **propietats** i **interrelacions**, etc.
+Observant el **món real**, els humans som capaços de deduir-ne **coneixements**, **informació**. L'observació dels **objectes** del **món real** ens porta a fer-ne l'*anàlisi* i la *síntesi*; després, n'obtenim **abstraccions**, en fem *classificacions* (podem saber que dos **objectes** són de la mateixa classe malgrat que siguin diferents), en deduïm **propietats** i **interrelacions**, etc.
 
-Per exemple, l'observació del camp de la **matriculació en una universitat** ens permet reconèixer diferents *classes* o *tipus d'objectes*, com ara l'*alumne* o l'*assignatura*. Deduïm que *tot alumne* tindrà les *propietats* (són **abstraccions**) *data de naixement*, *DNI*, *nom*, etc. i així obtenim **informacions** com les següents: l'alumna de *nom* **Judith Pi** té el *DNI* **34.567.854** i el seu *any de naixement* és el **1979**.
+Per exemple, l'observació del camp de la **matriculació en una universitat** ens permet reconèixer diferents *classes* o *tipus d'**objectes***, com ara l'*alumne* o l'*assignatura*. Deduïm que *tot alumne* tindrà les *propietats* (són **abstraccions**) *data de naixement*, *DNI*, *nom*, etc. i així obtenim **informacions** com les següents: l'alumna de *nom* **Judith Pi** té el *DNI* **34.567.854** i el seu *any de naixement* és el **1979**.
 
 El **conjunt dels coneixements** obtinguts observant un **món real**, l'anomenem **món conceptual** o **món de les concepcions**. En l'esfera de les concepcions construïm un **model abstracte**, **conceptual**, del **món real**, i això ens ajuda a raonar i a expressar-nos.
 
@@ -69,7 +75,7 @@ El **món de les concepcions** o **món dels coneixements** és un *món mental*
 
 Aquí ens ocuparem de les **representacions informàtiques**, i parlarem de **dades**, **fitxers**, **bases de dades**, **registres**, **camps**, **bytes**, **discs**, etc.
 
-Donem el nom de **dades** <span style="text-decoration:underline;">*a les representacions físiques dels coneixements que tenim dels objectes del ***món real***</span>*. El **pas** dels **coneixements a les dades**, el pas d'una concepció a una representació informàtica, **no és automàtic**. És un **procés humà**, un **procés de disseny**.
+Donem el nom de **dades** <span style="text-decoration:underline;">*a les representacions físiques dels coneixements que tenim dels **objectes** del ***món real***</span>*. El **pas** dels **coneixements a les dades**, el pas d'una concepció a una representació informàtica, **no és automàtic**. És un **procés humà**, un **procés de disseny**.
 
 Òbviament, en aquest cas, com en el cas del pas del **món real** al **món de les concepcions**, també hi ha **pluralisme**. *Un mateix conjunt de coneixements es pot representar de moltes maneres*, per exemple: en forma de **base de dades relacional** o com a **fitxers tradicionals**, amb **vectors** o sense, de **longitud fixa** o de **longitud variable**, amb codificació **<span style="text-decoration:underline;">[ASCII](https://ca.wikipedia.org/wiki/ASCII)</span>** o **<span style="text-decoration:underline;">[EBCDIC](https://ca.wikipedia.org/wiki/EBCDIC)</span>**, etc.
 
@@ -77,7 +83,7 @@ Una visió o concepció del **món real** d'un **hospital**, d'una **universitat
 
 Sense cap mena de dubte, les feines més importants de l'**analista**/**dissenyador** de **SI** o d'**aplicacions informàtiques** són les següents:
 
-1. **Analitzar** els objectes del **món real**, fer-ne abstraccions i obtenir-ne una concepció lògica, un model conceptual.
+1. **Analitzar** els **objectes** del **món real**, fer-ne abstraccions i obtenir-ne una concepció lògica, un model conceptual.
 
 1. **Dissenyar** una representació informàtica concreta que es pugui tractar eficientment.
 
@@ -89,7 +95,7 @@ El pas d'un **món conceptual** a un **món de representacions informàtiques** 
 
 Acabem de veure el camí que ens porta de la **realitat** als **coneixements**, i dels **coneixements** a les **dades** o **representacions**. Però ens farà falta poder **interpretar la representació**. El procés invers al de **representació**, l'anomenem **interpretació**.
 
-Si veiem una **dada**, una **representació** extreta d'una **base de dades** relativa a la *matriculació d'alumnes*, que consta de la sèrie de símbols: 1 9 9 9, no en podrem obtenir cap informació si no sabem si representa l'*any de matriculació*, l'*any de naixement*, l'*import de la matrícula*, el *número de la matrícula*, etc., i en qualsevol cas no sabrem de quin alumne concret (de quin objecte del **món real**) es tracta. Veiem, doncs, que per a poder **interpretar** les **dades** s'ha de saber, a més, a qui i a què (a quins **conceptes**) fan referència.
+Si veiem una **dada**, una **representació** extreta d'una **base de dades** relativa a la *matriculació d'alumnes*, que consta de la sèrie de símbols: 1 9 9 9, no en podrem obtenir cap informació si no sabem si representa l'*any de matriculació*, l'*any de naixement*, l'*import de la matrícula*, el *número de la matrícula*, etc., i en qualsevol cas no sabrem de quin alumne concret (de quin **objecte** del **món real**) es tracta. Veiem, doncs, que per a poder **interpretar** les **dades** s'ha de saber, a més, a qui i a què (a quins **conceptes**) fan referència.
 
 Hem dit que una **informació** és un <span style="text-decoration:underline;">*coneixement que es pot representar*</span>, però ara, mirant el camí invers, podrem dir que la **informació** és el <span style="text-decoration:underline;">significat que donem a les dades</span>.
 
@@ -99,7 +105,7 @@ Hem dit que una **informació** és un <span style="text-decoration:underline;">
 Un cop estructurats, els conceptes entorn de la realitat passen a ser veritables informacions, amb les quals els humans ens podem comunicar i començar a treballar.
 Però encara cal donar un altre pas que ens permeti representar aquestes informacions, de tal manera que les puguem tractar informàticament mitjançant ```BD``` i aplicacions, i aprofitem així tot el potencial de les noves tecnologies.
 
-Les **dades** són representacions informàtiques de la informació disponible, relativa als objectes del **món real** del nostre interès.
+Les **dades** són representacions informàtiques de la informació disponible, relativa als **objectes** del **món real** del nostre interès.
 El **món de les representacions** està format per les dades informatitzades amb les quals treballem.
 
 Ara bé, la conversió de les concepcions en dades no és automàtica, ni de molt.
