@@ -1,5 +1,7 @@
 # UF01: Introducció a les bases de dades
 
+1. [Teoria](./teoria/README.md)
+
 ## *Unitat didactica:* **Presentacions (PDF)**
 
 1. [Introducció Bases de dades (pdf)](https://drive.google.com/file/d/1qUNtc2MZ0cDo-z7Ctagmxibtktwg2LU_/view?usp=sharing)
