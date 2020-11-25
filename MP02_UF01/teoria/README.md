@@ -23,9 +23,9 @@ Així doncs, mitjançant l'observació de la realitat, s'obté un conjunt d'abst
 1. El <span style="font-size:1.25em; text-decoration:underline;">**Món conceptual**</span>. És el conjunt de **coneixements, informacions, conceptes**..., obtinguts gràcies a l'observació de la part del ***món real*** que ens interessa. Un mateix ***món real pot donar lloc a diferents mons conceptuals, en funció de la manera de percebre la realitat, o els interessos de l'observador d'aquesta*** .
 1. El <span style="font-size:1.25em; text-decoration:underline;">**Món de les representacions**</span>. Està format per les **representacions informàtiques, o dades, del món conceptual, necessàries per poder treballar**.
 
-![Figura 1.1. **Els tres mons.**](../images/ic10m2u1_01.png "Figura 1.1. Els tres mons.")
+![Figura 1.1. **Els tres mons.**](../../images/ic10m2u1_01.png "Figura 1.1. Els tres mons.")
 
-[Figura 1.1. **Els tres mons.**](../images/ic10m2u1_01.png "Figura 1.1. Els tres mons.")
+[Figura 1.1. **Els tres mons.**](../../images/ic10m2u1_01.png "Figura 1.1. Els tres mons.")
 
 ### 1.1. La *<span style="text-decoration:underline;">realitat</span>*: els **objectes**.
 
