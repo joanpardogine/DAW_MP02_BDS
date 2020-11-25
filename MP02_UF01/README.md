@@ -4,7 +4,9 @@
 
 ## *Unitat didactica:* **Presentacions (PDF)**
 
-1. [Introducció Bases de dades (pdf)](https://drive.google.com/file/d/1qUNtc2MZ0cDo-z7Ctagmxibtktwg2LU_/view?usp=sharing "title" target="_blank")
+1. [Introducció Bases de dades (pdf)](https://drive.google.com/file/d/1qUNtc2MZ0cDo-z7Ctagmxibtktwg2LU_/view?usp=sharing)
+
+<a href="https://drive.google.com/file/d/1qUNtc2MZ0cDo-z7Ctagmxibtktwg2LU_/view?usp=sharing" target="_blank">Introducció Bases de dades (pdf)</a>
 
 1. [Conceptes bàsics Bases de dades (pdf)](https://drive.google.com/file/d/1llAOZjjZEhiTMEdxMXFz2Fw8cwBjya7z/view?usp=sharing){:target="_blank"}
 
